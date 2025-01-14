@@ -7,9 +7,9 @@
 <ul>
   <li> ✨ I am a junior Python Developer </li>
   <li> 🌱 I’m currently learning c#, web </li>
-  <li> 🔭 I’m currently working on 2 Python projects. You can check them out in my profile </li>
+  <li> 🔭 I’m currently working on some Python projects. You can check them out in my profile </li>
   <li> 😄 I am open for new collaborations </li>
-  <li> ⚡ Fun fact: I absolutely love computer games </li>
+  <li> ⚡ Fun fact: I am ginger </li>
 </ul>
 
 
